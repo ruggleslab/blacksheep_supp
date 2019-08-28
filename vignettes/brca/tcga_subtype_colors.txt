@@ -1,0 +1,6 @@
+Basal   #EE2025
+Her2    #B9539F
+LumA    #3A53A5
+LumB  #6ECDDE
+Normal   gray
+CLDN-low    #EFC032
